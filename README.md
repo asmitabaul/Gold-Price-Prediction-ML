@@ -44,7 +44,9 @@ XGBoost
 ~Matplotlib, Seaborn
 
 -Project Structure
-gold-price-prediction/
+gold-price-prediction/      
+
+
 │
 ├── data/             
 ├── notebooks/        

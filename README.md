@@ -47,7 +47,6 @@ XGBoost
 gold-price-prediction/      
 
 ├── data/             
-├── notebooks/        
-├── outputs/           
+├── notebooks/                  
 ├── README.md
 

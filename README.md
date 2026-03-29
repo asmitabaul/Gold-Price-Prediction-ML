@@ -46,10 +46,8 @@ XGBoost
 -Project Structure
 gold-price-prediction/      
 
-
-│
 ├── data/             
 ├── notebooks/        
 ├── outputs/           
 ├── README.md
-└── requirements.txt
+
